@@ -63,7 +63,7 @@ try{
         <div className="p-3 flex mob:flex-col m-auto max-w-6xl justify-between items-center">
           <div className="logo mob:border-b mob:border-b-gray-200 flex justify-center items-center">
             <div className="img w-16 h-1w-16 rounded-full ">
-              <Image src="/assets/gdsc-logo.png" alt="me" width="64" height="64" />
+              <Image src="./assets/gdsc-logo.png" alt="me" width="64" height="64" />
             </div>
             <div className="text flex flex-col justify-start items-start">
               <p className="text-base">Google Devloper Student Club</p>
