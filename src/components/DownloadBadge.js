@@ -29,7 +29,7 @@ const DownloadBadge = ({ Imgdata, setImgdata, setProgress, Username, setUsername
                     </div>
                     {!Adjustment && <img
                         className='absolute top-0'
-                        src="/assets/template.png"
+                        src="./assets/template.png"
                         width={300}
                         height={300}
                         alt="template"
@@ -105,7 +105,7 @@ const DownloadBadge = ({ Imgdata, setImgdata, setProgress, Username, setUsername
                     <input type="radio" name="badge" id="badge1" />
                     <Image
                         className=''
-                        src="/assets/template.png"
+                        src="./assets/template.png"
                         width={100}
                         height={100}
                         alt="template"
